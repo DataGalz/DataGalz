@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @DataGalz
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, R
-- 💞️ I’m looking to collaborate on different projects that will help me practice the two languages
-- 📫 How to reach me email me
+The Bank of Canada monitors the Consumer Price Index (CPI) is an indicator of changes in consumer prices experienced by Canadians. It is obtained by comparing, over time, the cost of a fixed basket of goods and services purchased by consumers.The CPI is widely used as an indicator of the change in the general level of consumer prices or the rate of inflation. Since the purchasing power of money is affected by changes in prices, the CPI is useful to virtually all Canadians. ( https://www.bankofcanada.ca/rates/price-indexes/cpi/). CPI is a great measure of inflation, which is defined as an erosion in the purchasing power or a consumer due to increases in price. Inflation is particularly vulnerable to certain changes in the economy and can either be transitory or long lasting. 
 
-<!---
-DataGalz/DataGalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Our dataset contains monthly data for Canada of the Consumer Price Index since 2000 to present day. The interest of this paper is to understand the impact of economic shocks to the price of good that Canadians pay by looking at three main economic downturns since 2000. We will review three events, the dotcom downturn of 2000, the financial crisis of 2008 and most recently the impact of Covid in 2020. We will also build a predictive modeling to predict if the inflationary condition we are now facing will be long lasting or it is just short lived inflation. 
+
+To build a predictive model we will be using Python, including several packages available in the tool to analyze the data, ggplot to visualize the data and other packages to create the predictive model needed to for this project. The predictive model will first review the data set downloaded from the Bank of Canada repository and complete data preparation and classification. Next, the data will be prepared for the predictive modeling. 
+The paper will conclude with an understanding of the fluctuation of CPI during certain economic shocks as well as the lasting impact of these changes in inflation. Lastly, the paper will attempt to predict the lasting impact of the CPI due to latest global pandemic of COVID-19. 
+![image](https://user-images.githubusercontent.com/71046751/137230262-6d44fe77-0ab4-4c4f-bdd2-dbce9177cb2c.png)
